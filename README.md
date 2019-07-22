@@ -26,5 +26,6 @@
 
 ![cover_photo](./README/hosp_intro.png)
 ![cover_photo](./README/hosp_graph.png)
+![cover_photo](./README/hosp_final.png)
 
 
