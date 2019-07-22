@@ -1,8 +1,5 @@
 # EDA & Hypothesis Testing Projects
-*Short &amp; fun projects doing EDA on different datasets*
 
-
-## ___________________________________________________________________________________
 
 [Human Temperature Analysis](https://github.com/Colley-K/eda_projects/blob/master/EDA_avg_human_temp.ipynb)
 
